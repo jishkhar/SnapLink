@@ -1,4 +1,4 @@
-# URL Shortener
+# SnapLink
 
 A simple and efficient URL shortening service built with Node.js, Express, and MongoDB. This application allows users to create shortened versions of long URLs and tracks click analytics.
 
